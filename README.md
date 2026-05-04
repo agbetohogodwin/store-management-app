@@ -27,19 +27,18 @@ Technologies
 Microsoft Excel VBA
 
 Captures d'écran
-![Capture 1](screenshots/1.jpg)
-![Capture 2](screenshots/2.jpg)
-![Capture 3](screenshots/3.jpg)
-![Capture 4](screenshots/4.jpg)
-![Capture 5](screenshots/5.jpg)
-![Capture 6](screenshots/6.jpg)
-![Capture 7](screenshots/7.jpg)
-![Capture 8](screenshots/8.jpg)
-![Capture 9](screenshots/9.jpg)
-![Capture 10](screenshots/10.jpg)
-![Capture 11](screenshots/11.jpg)
-![Capture 12](screenshots/12.jpg)
-
+![Capture 1](screenshots/1.JPG)
+![Capture 2](screenshots/2.JPG)
+![Capture 3](screenshots/3.JPG)
+![Capture 4](screenshots/4.JPG)
+![Capture 5](screenshots/5.JPG)
+![Capture 6](screenshots/6.JPG)
+![Capture 7](screenshots/7.JPG)
+![Capture 8](screenshots/8.JPG)
+![Capture 9](screenshots/9.JPG)
+![Capture 10](screenshots/10.JPG)
+![Capture 11](screenshots/11.JPG)
+![Capture 12](screenshots/12.JPG)
 
 Statut
 Application fonctionnelle. Développée à titre personnel pour approfondir les compétences en automatisation et gestion de données sous Excel VBA.
