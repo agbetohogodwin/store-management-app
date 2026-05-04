@@ -1,7 +1,8 @@
-Store Management App
+# Store Management App
+
 Application desktop de gestion de stock et des ventes, développée en Excel VBA. Conçue pour les commerces de détail et d'en gros, elle couvre l'ensemble du cycle commercial, de l'approvisionnement à l'analyse des performances.
 
-Fonctionnalités
+## Fonctionnalités
 
 Liste des produits : catalogue complet avec suivi des stocks
 
@@ -22,11 +23,12 @@ Recettes journalières : suivi du chiffre d'affaires par jour
 Analyses comparatives : comparaison entre deux années de ventes, quantités vendues, achats par client, inventaire et bénéfices
 
 
-Technologies
+## Technologies
 
 Microsoft Excel VBA
 
-Captures d'écran
+## Captures d'écran
+
 ![Capture 1](screenshots/1.JPG)
 ![Capture 2](screenshots/2.JPG)
 ![Capture 3](screenshots/3.JPG)
@@ -40,6 +42,7 @@ Captures d'écran
 ![Capture 11](screenshots/11.JPG)
 ![Capture 12](screenshots/12.JPG)
 
-Statut
+## Statut
+
 Application fonctionnelle. Développée à titre personnel pour approfondir les compétences en automatisation et gestion de données sous Excel VBA.
 
